@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/marshallgberry/simpleExpress/issues"
   },
-  "homepage": "https://github.com/marshallgberry/simpleExpress#readme"
+  "homepage": "https://github.com/marshallgberry/simpleExpress#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
